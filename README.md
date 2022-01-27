@@ -1,3 +1,3 @@
-### Drew Daly
+# **Drew Daly**
 ## Illini CS '25
-# 6'4"
+### 6'4"
